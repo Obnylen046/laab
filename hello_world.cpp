@@ -2,7 +2,7 @@
 #include <string>
 
 int main() {
-    // Переменная для хранения имени
+    // Переменная для хранения имени (изменено на GitHub)
     std::string name; 
     std::cout << "Enter your name: ";
     std::cin >> name;
